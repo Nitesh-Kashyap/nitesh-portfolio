@@ -15,7 +15,7 @@ const Projects: React.FC = () => {
         "Admin dashboard with role-based access",
         "Nested forms for complex data entry"
       ],
-      githubUrl: "#",
+      githubUrl: "https://github.com/Nitesh-Kashyap/restaurent-website",
       liveUrl: "#"
     },
     {
@@ -29,7 +29,7 @@ const Projects: React.FC = () => {
         "PDF report downloads",
         "Role-based access control"
       ],
-      githubUrl: "#",
+      githubUrl: "https://github.com/Nitesh-Kashyap/auth-demo",
       liveUrl: "#"
     },
     {
@@ -43,7 +43,7 @@ const Projects: React.FC = () => {
         "RESTful API design",
         "Responsive React frontend"
       ],
-      githubUrl: "#",
+      githubUrl: "https://github.com/Nitesh-Kashyap/photo-gallery",
       liveUrl: "#"
     }
   ];
